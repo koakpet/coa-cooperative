@@ -1,0 +1,14 @@
+body {
+    width: 70%;
+    margin: auto;
+}
+
+.profile {
+    padding-top: 60px;
+    display: flex;
+
+}
+
+.passport {
+    max-width: 240px;
+}
